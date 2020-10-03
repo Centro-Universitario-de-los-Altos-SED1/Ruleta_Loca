@@ -1,3 +1,8 @@
+/*
+ * Integrantes:
+ * Ileana Pérez Navarro
+ * Jacqueline Flores Lares
+ */
 package ruleta;
 
 import javax.swing.ImageIcon;
